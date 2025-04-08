@@ -3,7 +3,7 @@ This is the Github for FRC Team 3459 PyroTech. This stores our code across years
 
 
 ## Our Robots
-[![Static Badge](https://img.shields.io/badge/2025-TBD-red?style=for-the-badge)](https://github.com/RingOfFireOrg/2025Robot) <br> 
+[![Static Badge](https://img.shields.io/badge/2025-TrailBlazer-red?style=for-the-badge)](https://github.com/RingOfFireOrg/2025Robot) <br> 
 [![Static Badge](https://img.shields.io/badge/2024-WildFire-red?style=for-the-badge)](https://github.com/RingOfFireOrg/2024Robot) <br> 
 [![Static Badge](https://img.shields.io/badge/2023-FireFly-red?style=for-the-badge)](https://github.com/RingOfFireOrg/2023Robot) <br>
 [![Static Badge](https://img.shields.io/badge/2022-Ember-red?style=for-the-badge)](https://github.com/RingOfFireOrg/Vulcan2022) <br>
