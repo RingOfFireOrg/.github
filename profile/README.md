@@ -8,7 +8,7 @@ This is the Github for FRC Team 3459 PyroTech. This stores our code across years
 [![Static Badge](https://img.shields.io/badge/2023-FireFly-red?style=for-the-badge)](https://github.com/RingOfFireOrg/2023Robot) <br>
 [![Static Badge](https://img.shields.io/badge/2022-Ember-red?style=for-the-badge)](https://github.com/RingOfFireOrg/Vulcan2022) <br>
 [![Static Badge](https://img.shields.io/badge/2021-Hephaestus-red?style=for-the-badge)](https://github.com/RingOfFireOrg/2021-INFINITE-RECHARGE) <br>
-![Static Badge](https://img.shields.io/badge/2020-Sunburn-gray?style=for-the-badge) <br>
+[![Static Badge](https://img.shields.io/badge/2020-Sunburn-red?style=for-the-badge)](https://github.com/RingOfFireOrg/infinite-recharge) <br>
 [![Static Badge](https://img.shields.io/badge/2019-Solar_Flare-red?style=for-the-badge)](https://github.com/RingOfFireOrg/solarflare) <br>
 [![Static Badge](https://img.shields.io/badge/2018-Fire_Flower-red?style=for-the-badge)](https://github.com/RingOfFireOrg/FRC_2018_Competition) <br>
 [![Static Badge](https://img.shields.io/badge/2017-Hidenburg-red?style=for-the-badge)](https://github.com/RingOfFireOrg/FRC_2017_Competition) <br>
